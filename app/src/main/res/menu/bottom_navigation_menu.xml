@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuHome"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/menuHome"/>
+    <item
+        android:id="@+id/menuNews"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="@string/menuNews"/>
+    <item
+        android:id="@+id/menuShows"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_live_tv_24"
+        android:title="@string/menuShows"/>
+    <item
+        android:id="@+id/menuMusic"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_headset_24"
+        android:title="@string/menuMusic"/>
+</menu>
